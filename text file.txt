@@ -1,0 +1,20 @@
+Human, Luminar, 100, 90, Creates dazzling light shields, Electromagnetic, 80
+Human, Stormcaller, 100, 95, Summons thunder and lightning, Electromagnetic, 100
+Human, Aquarion, 100, 88, Creates powerful water waves, NatureControl, 85
+Human, Pyra, 100, 100, Shoots fireballs and regenerates health, Biological, 90
+Human, Enchanter, 100, 95, Controls enchanted machines, Mechanical, 75
+NonLiving, Frost, 100, 85, Freezes enemies with icy breath, Mechanical, 80
+NonLiving, Flora, 100, 80, Summons vines to trap enemies, NatureControl, 90
+NonLiving, Galaxian, 100, 92, Shoots laser beams and teleports, Electromagnetic, 70
+NonLiving, Ironheart, 100, 80, Punches through walls, Mechanical, 100
+NonLiving, Shadow, 100, 90, Becomes invisible and strikes from shadows, Biological, 85
+Monster, Thunderstorm, 100, 78, Creates thunderstorms to scare foes, Electromagnetic, 90
+Monster, Cosmic, 100, 85, Travels through galaxies and discovers secrets, Biological, 88
+Monster, Solar, 100, 92, Emits powerful solar bursts, Electromagnetic, 75
+Monster, Jungle, 100, 82, Communicates with animals and uses jungle traps, NatureControl, 90
+Monster, Crystal, 100, 91, Summons crystal barriers for protection, Mechanical, 80
+Monster, Ice, 100, 86, Fires ice shards at enemies, Biological, 85
+Monster, Firestorm, 100, 95, Calls down a storm of fire, Biological, 95
+Monster, Wind, 100, 83, Manipulates wind to create powerful gusts, Electromagnetic, 80
+Monster, Shade, 100, 90, Uses shadow powers to confuse enemies, Biological, 82
+Monster, Timekeeper, 100, 95, Can slow down time to dodge attacks, NatureControl, 100

@@ -1,0 +1,42 @@
+Game 1 Results:
+TRINH's team:
+  - Luminar - Health: 9, Power: 0.0, Attack Type: Electromagnetic
+  - Aquarion - Health: 13, Power: 0.0, Attack Type: NatureControl
+  - Enchanter - Health: 68, Power: 0.0, Attack Type: Mechanical
+PHUC's team:
+  - Flora - Health: 38, Power: 80.0, Attack Type: NatureControl
+  - Ironheart - Health: 61, Power: 80.0, Attack Type: Mechanical
+  - Thunderstorm - Health: 99, Power: 78.0, Attack Type: Electromagnetic
+
+Total Power of TRINH's team: 0.0
+Total Power of PHUC's team: 238.0
+PHUC wins!
+====================================
+Game 1 Results:
+CHLOE's team:
+  - Stormcaller - Health: 92, Power: 0.0, Attack Type: Electromagnetic
+  - Flora - Health: 58, Power: 80.0, Attack Type: NatureControl
+  - Ironheart - Health: 59, Power: 80.0, Attack Type: Mechanical
+PH's team:
+  - Thunderstorm - Health: 62, Power: 39.0, Attack Type: Electromagnetic
+  - Aquarion - Health: 49, Power: 0.0, Attack Type: NatureControl
+  - Enchanter - Health: 87, Power: 0.0, Attack Type: Mechanical
+
+Total Power of CHLOE's team: 160.0
+Total Power of PH's team: 39.0
+CHLOE is the winner!
+====================================
+Game 1 Results:
+HAN's team:
+  - Stormcaller - Health: 96, Power: 0.0, Attack Type: Electromagnetic
+  - Flora - Health: 56, Power: 80.0, Attack Type: NatureControl
+  - Ironheart - Health: 47, Power: 80.0, Attack Type: Mechanical
+VAN's team:
+  - Enchanter - Health: 92, Power: 0.0, Attack Type: Mechanical
+  - Pyra - Health: 6, Power: 0.0, Attack Type: Biological
+  - Aquarion - Health: 75, Power: 0.0, Attack Type: NatureControl
+
+Total Power of HAN's team: 160.0
+Total Power of VAN's team: 0.0
+HAN is the winner!
+====================================
